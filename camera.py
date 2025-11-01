@@ -1,10 +1,3 @@
-# -------------------------------------------------------------------------
-# Crack the Code
-# Inteligencia Artificial con Python
-# Sesion 1 - Detector de rostros
-# No modifiques este archivo
-# -------------------------------------------------------------------------
-# Importar bibliotecas que se utilizarán
 import cv2
 
 
